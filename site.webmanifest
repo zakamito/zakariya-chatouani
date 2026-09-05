@@ -1,9 +1,9 @@
 {
-  "name": "Zakariya Chatouani — Portfolio",
-  "short_name": "Zakariya Chatouani",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#07100d",
-  "theme_color": "#07100d",
-  "icons": []
+  "name":"Zakariya Chatouani — Portfolio",
+  "short_name":"Zakariya Chatouani",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#07100d",
+  "theme_color":"#07100d",
+  "icons":[]
 }
