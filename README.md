@@ -1,10 +1,24 @@
-# Portfolio — Zakariya Chatouani
+# Portfolio V2 — Zakariya Chatouani
 
-## Mise en ligne
-1. Remplace `https://VOTRE-DOMAINE.fr/` dans `index.html`, `robots.txt` et `sitemap.xml` par ton domaine final.
-2. Ajoute les fichiers à ton dépôt GitHub.
-3. Active GitHub Pages (Settings > Pages) ou déploie avec ton hébergeur.
-4. Ajoute ensuite le domaine dans Google Search Console et soumets `sitemap.xml`.
-5. Demande l'indexation de la page d'accueil.
+Site : https://zakamito.github.io/zakariya-chatouani/
 
-Le site est responsive et contient les métadonnées SEO + Schema.org Person.
+## Remplacement sur GitHub
+Remplace les anciens fichiers du dépôt par ceux de cette archive.
+
+Fichiers importants :
+- `index.html`
+- `style.css`
+- `script.js`
+- `robots.txt`
+- `sitemap.xml`
+- `favicon.svg`
+- `site.webmanifest`
+- `og-image.png`
+- `CV-Zakariya-Chatouani.pdf`
+
+Ne supprime pas le fichier de validation Google Search Console déjà présent dans ton dépôt (`google....html`).
+
+## Après le déploiement
+1. Vérifie que le site s'affiche.
+2. Vérifie `https://zakamito.github.io/zakariya-chatouani/sitemap.xml`.
+3. Dans Search Console, inspecte `https://zakamito.github.io/zakariya-chatouani/` et demande une nouvelle indexation seulement si tu veux signaler cette version mise à jour.
